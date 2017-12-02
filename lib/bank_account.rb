@@ -13,4 +13,5 @@ class BankAccount
 
   def status
     @status
+  end
 end
