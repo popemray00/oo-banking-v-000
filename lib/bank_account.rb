@@ -16,7 +16,7 @@ class BankAccount
   end
 
   def deposit
-    @balance += 1
+    self += 1
 
   end
 
