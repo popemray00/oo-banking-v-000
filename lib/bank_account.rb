@@ -11,9 +11,9 @@ class BankAccount
     @balance += amount
   end
 
-  def display_balance
+  def display_balance(balance)
     puts "#{balance}"
-    
+
   end
 
 end
